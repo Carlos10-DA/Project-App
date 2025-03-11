@@ -1,2 +1,15 @@
 numpy==2.2.2
+    # via
+    #   -r requirements.in
+    #   contourpy
+    #   matplotlib
+    #   pandas
+    #   seaborn
 pandas==2.2.3
+    # via
+    #   -r requirements.in
+    #   seaborn
+python-dateutil==2.9.0.post0
+    # via
+    #   matplotlib
+    #   pandas
