@@ -12,3 +12,5 @@ Gráfico de dispersión entre odómetro y precio: Los usuarios también pueden g
 
 Interactividad
 La aplicación permite que el usuario seleccione qué tipo de visualización desea ver mediante casillas de verificación. Esto proporciona una experiencia más flexible en comparación con los botones tradicionales. El usuario puede seleccionar tanto el histograma como el gráfico de dispersión al mismo tiempo para una comparación rápida.
+
+Link de la aplicación: https://project-app-1-ou2x.onrender.com
